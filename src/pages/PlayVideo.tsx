@@ -22,7 +22,7 @@ export function PlayVideo() {
   const videosPerPage = 10;
 
   // Array URL video dasar
-  const videoBaseUrls = ['https://doobs.top/e/'];
+  const videoBaseUrls = ['https://videy.doobs.top/e/'];
 
   // Array URL untuk pop-under
   const randomUrls = [
