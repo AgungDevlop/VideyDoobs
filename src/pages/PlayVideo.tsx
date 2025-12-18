@@ -26,10 +26,9 @@ export function PlayVideo() {
 
   const randomUrls = [
     'https://otieu.com/4/10055984',
-    'https://enviousgarbage.com/HE9TFh',
+    'https://smart-damage.com/HE9TFh',
     'https://aviatorreproducesauciness.com/2082665',
-    'https://adclickad.com/get/?spot_id=6089412&cat=25&subid=2067093145',
-    'https://viikqoye.com/dc/?blockID=388556'
+    'https://viiukuhe.com/dc/?blockID=388556'
   ];
   
   useEffect(() => {
